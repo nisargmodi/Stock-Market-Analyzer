@@ -1,0 +1,6 @@
+[07-Mar-2013 15:18:19 Asia/Calcutta] PHP Warning:  Division by zero in /home/ilovee/public_html/SMA/analysis/analysis_a.php on line 57
+[07-Mar-2013 15:18:19 Asia/Calcutta] PHP Warning:  Division by zero in /home/ilovee/public_html/SMA/analysis/analysis_a.php on line 58
+[07-Mar-2013 15:18:19 Asia/Calcutta] PHP Warning:  Division by zero in /home/ilovee/public_html/SMA/analysis/analysis_a.php on line 59
+[07-Mar-2013 15:18:19 Asia/Calcutta] PHP Warning:  Division by zero in /home/ilovee/public_html/SMA/analysis/analysis_a.php on line 60
+[07-Mar-2013 15:18:19 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ilovee/public_html/SMA/analysis/analysis_a.php on line 73
+[07-Mar-2013 15:19:55 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ilovee/public_html/SMA/analysis/analysis_a.php on line 73
